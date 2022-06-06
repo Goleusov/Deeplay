@@ -1,0 +1,14 @@
+D:\собес\стажер c#\Personal_Records\Personal_Records\bin\Debug\Personal_Records.exe.config
+D:\собес\стажер c#\Personal_Records\Personal_Records\bin\Debug\Personal_Records.exe
+D:\собес\стажер c#\Personal_Records\Personal_Records\bin\Debug\Personal_Records.pdb
+D:\собес\стажер c#\Personal_Records\Personal_Records\obj\Debug\Personal_Records.csproj.AssemblyReference.cache
+D:\собес\стажер c#\Personal_Records\Personal_Records\obj\Debug\Personal_Records.csproj.SuggestedBindingRedirects.cache
+D:\собес\стажер c#\Personal_Records\Personal_Records\obj\Debug\Personal_Records.MainForm.resources
+D:\собес\стажер c#\Personal_Records\Personal_Records\obj\Debug\Personal_Records.Properties.Resources.resources
+D:\собес\стажер c#\Personal_Records\Personal_Records\obj\Debug\Personal_Records.csproj.GenerateResource.cache
+D:\собес\стажер c#\Personal_Records\Personal_Records\obj\Debug\Personal_Records.csproj.CoreCompileInputs.cache
+D:\собес\стажер c#\Personal_Records\Personal_Records\obj\Debug\Personal_Records.exe
+D:\собес\стажер c#\Personal_Records\Personal_Records\obj\Debug\Personal_Records.pdb
+D:\собес\стажер c#\Personal_Records\Personal_Records\obj\Debug\Personal_Records.EditForm.resources
+D:\собес\стажер c#\Personal_Records\Personal_Records\obj\Debug\Personal_Records.AddForm.resources
+D:\собес\стажер c#\Personal_Records\Personal_Records\obj\Debug\Personal_Records.ChangeJobTitleForm.resources
