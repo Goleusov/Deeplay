@@ -264,7 +264,7 @@
             this.Controls.Add(this.textBoxFirstName);
             this.Controls.Add(this.labelFirstName);
             this.Name = "EditForm";
-            this.Text = "EditForm";
+            this.Text = "Редактирование записи";
             this.Load += new System.EventHandler(this.EditForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

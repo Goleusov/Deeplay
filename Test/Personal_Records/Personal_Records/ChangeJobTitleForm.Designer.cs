@@ -159,7 +159,7 @@
             this.Controls.Add(this.comboBoxJobTitle);
             this.Controls.Add(this.labelJobTitle);
             this.Name = "ChangeJobTitleForm";
-            this.Text = "Изменить должность сотрудника";
+            this.Text = "Измение должности сотрудника";
             this.Load += new System.EventHandler(this.ChangeJobTitle_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

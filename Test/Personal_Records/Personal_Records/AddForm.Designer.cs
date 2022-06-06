@@ -237,7 +237,7 @@
             this.labelError.Size = new System.Drawing.Size(0, 13);
             this.labelError.TabIndex = 20;
             // 
-            // AddEmployeeForm
+            // AddForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -263,8 +263,8 @@
             this.Controls.Add(this.labelMiddleName);
             this.Controls.Add(this.textBoxFirstName);
             this.Controls.Add(this.labelFirstName);
-            this.Name = "AddEmployeeForm";
-            this.Text = "AddEmployee";
+            this.Name = "AddForm";
+            this.Text = "Добавление записи";
             this.Load += new System.EventHandler(this.AddEmployee_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
